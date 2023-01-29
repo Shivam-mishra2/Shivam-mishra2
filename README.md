@@ -8,7 +8,7 @@ A Tech enthusiast interested in Web Dev, Blockchain, Crypto, DeFi, NFTs and basi
 
 * 🌍  I'm based in Pune, India
 * ✉️  You can contact me at [shivammishra410203@gmail.com](mailto:shivammishra410203@gmail.com)
-* 🧠  I'm learning Solidity
+* 🧠  I'm building dApps
 * 🤝  I'm open to collaborating on dApps Development
 
 ### Skills

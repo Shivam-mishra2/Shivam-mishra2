@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web3 Developer
 -----------------------------
 
-A Tech enthusiast interested in Web Dev, Blockchain, Crypto, DeFi, NFTs and basically the whole idea of DECENTRALIZED INTERNET. I'm Currently learning about Dapps and how to make efficient and secure Smart Contracts using Solidity
+A Tech enthusiast interested in Web Dev, Blockchain, Crypto, DeFi, NFTs and basically the whole idea of DECENTRALIZED INTERNET. I'm Currently building dApps by making efficient and secure Smart Contracts using Solidity
 
 * 🌍  I'm based in Pune, India
 * ✉️  You can contact me at [shivammishra410203@gmail.com](mailto:shivammishra410203@gmail.com)

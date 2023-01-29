@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shivam Mishra
 =====================================================================================================================================
 
-Web 3.0/Blockchain Enthusiast
+Web3 Developer
 -----------------------------
 
 A Tech enthusiast interested in Web Dev, Blockchain, Crypto, DeFi, NFTs and basically the whole idea of DECENTRALIZED INTERNET. I'm Currently learning about Dapps and how to make efficient and secure Smart Contracts using Solidity
